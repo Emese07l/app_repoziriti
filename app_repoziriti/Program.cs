@@ -13,6 +13,7 @@ namespace app_repoziriti
             Console.WriteLine("Rózsaszín");
             Console.WriteLine("hi");
             Console.WriteLine("hoy");
+            Console.WriteLine("bruh");
 
 
         }
