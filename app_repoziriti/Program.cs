@@ -11,8 +11,7 @@ namespace app_repoziriti
         static void Main(string[] args)
         {
             Console.WriteLine("Rózsaszín");
-            Console.WriteLine("Piros");
-            Console.WriteLine("hoy");
+           
         }
     }
 }
